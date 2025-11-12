@@ -5,9 +5,8 @@ I’m a **Lead Infrastructure Engineer** based in Manchester, UK. With a backgro
 
 ## :smile: About Me
 
-- :raising_hand: Pronouns: **He/Him**
-- :scotland: Originally from **Scotland**  
-- :e-mail: Reach me at [dean@itsdeandavidson.co.uk](mailto:dean@itsdeandavidson.co.uk)  
+- :man_technologist: My pronouns are **He/Him/His**
+- :scotland: I'm originally from **Scotland**  
 
 
 ## :hammer_and_wrench: Technologies
